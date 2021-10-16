@@ -147,6 +147,6 @@
 	* Code by Ccocot (ccocot@bc0de.net)
 	* Fixing and Testing by Putu Syntax
 	* Fixed error by Bartes Dwiky
-        * SGB TEAM REBORN
+     * SGB TEAM REBORN
 	* BC0DE.NET | NAONLAH.NET - WingKocoli
 	* Ilyasa Fathur Rahman (Tutorial dari VPS Centos)
