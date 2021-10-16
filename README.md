@@ -36,7 +36,7 @@
 	* cd bot-igeh
 	* unzip node_modules.zip
 	* npm install https://github.com/huttarichard/instagram-private-api
-	* npm audit fix
+	* npm audit fix 
 	* ls
 	* Then select the tool you want to use!
 	* node filename
@@ -146,6 +146,7 @@
 ## SPECIAL THANKS TO:
 	* Code by Ccocot (ccocot@bc0de.net)
 	* Fixing and Testing by Putu Syntax
-	* SGB TEAM REBORN
+	* Fixed error by Bartes Dwiky
+        * SGB TEAM REBORN
 	* BC0DE.NET | NAONLAH.NET - WingKocoli
 	* Ilyasa Fathur Rahman (Tutorial dari VPS Centos)
